@@ -8,6 +8,7 @@ const useSiteMetadata = () => {
           siteMetadata {
             title
             description
+            google-site-verification: 'K-i3xLkZzxse8osTQPjkPbsIkUU2U89_zK4tKJ_8TGQ'
           }
         }
       }
