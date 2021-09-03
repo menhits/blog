@@ -3,7 +3,7 @@ module.exports = {
     title: 'Website Kawan Belajar Hukum',
     description:
       'Kawan belajar hukum heylawedu adalah aplikasi legal service dan legal education yang berkomitmen mencerdaskan kehdupan bangsa dalam bidang hukum',
-    google-site-verification: 'KqRaZ72ISanG8tSQucsIyjrk6I7lEuigrf_OWMVMFz0',
+    google-site-verification: 'K-i3xLkZzxse8osTQPjkPbsIkUU2U89_zK4tKJ_8TGQ',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
