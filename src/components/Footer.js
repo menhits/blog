@@ -58,6 +58,18 @@ const Footer = class extends React.Component {
                     <li>
                       <a href="https://legaltalk.id/">Legaltalk News</a>
                     </li>
+                    <li>
+                      <a href="https://cyberlaw.my.id/">Cyber Law</a>
+                    </li>
+                    <li>
+                      <a href="https://berbakti.id/">Berbakti</a>
+                    </li>
+                    <li>
+                      <a href="https://kekata.my.id/">Kekata</a>
+                    </li>
+                    <li>
+                      <a href="https://liriklagu.my.id/">Lirik Lagu</a>
+                    </li>
                   </ul>
                 </section>
               </div>
