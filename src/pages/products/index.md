@@ -1,8 +1,8 @@
 ---
-heading: Great coffee with a conscience
+heading: Akses semua kelas hukum dengan harga terjangkau di heylaw-edu.
 path: /products
 templateKey: product-page
-title: Our Coffee
+title: "#Kawan Belajar Hukum  "
 image: /img/jumbotron.jpg
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
