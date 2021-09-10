@@ -55,6 +55,10 @@ const Footer = class extends React.Component {
                         Contact
                       </Link>
                     </li>
+                    <li>
+                      <a href="https://legaltalk.id/">Legaltalk News</a>
+<br>
+                    </li>
                   </ul>
                 </section>
               </div>
