@@ -2,15 +2,15 @@
 templateKey: index-page
 title: Kawan Belajar Hukum
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Kapan saja, Dimana saja
+subheading: Kawan Belajar Hukum Kekinian
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why Belajar Hukum Online
+  description: Heylawedu.id adalah platform digital untuk belajar hukum
+    terlengkap. Kami punya semboyan, belajar hukum itu mudah. Bahkan bukan
+    sarjana hukum, bisa belajar hukum dengan mudah. Banyak pelatihan, webinar
+    dan kelas digital hukum tersedia di sini. Tentu dengan para pengajar dari
+    profesional dan dosen hukum berpengalaman.
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
@@ -46,12 +46,11 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    
+    Heylawedu.id merupakan bagian produk dari HeyLaw. HeyLaw didirikan oleh pemerhati hukum dan teknologi. Beberapa pendirinya adalah Awaludin Marwan, PhD, lulusan doktor Universitas Utrecht Belanda, Wahyu Agung Pramudito, PhD lulusan doktor Universitas Manchester Inggris, Az Zahra F. Sunandi, MSc lulusan University College London, Andi Tri Haryono, MM akademisi di bidang ekonomi digital, dan beberapa kolega yang lain.
 main:
-  heading: Great coffee with no compromises
+  heading: Kami berharap, Heylawedu.id dapat menjadi "Kawan Belajar Hukum, kamu.
+    Iya kamu!"
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
