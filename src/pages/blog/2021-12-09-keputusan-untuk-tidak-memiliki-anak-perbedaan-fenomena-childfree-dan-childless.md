@@ -14,7 +14,7 @@ tags:
 ---
 <!--StartFragment-->
 
-Childfree sendiri mulai lantang digaungkan di era modern ini setelah sebelumnya isu feminisme dan kesetaraan gender juga telah mendahului topik childfree itu sendiri.
+[Childfree](https://heylawedu.id/blog/childfree-fenomena-childfree-dan-konstruksi-masyarakat-indonesia) sendiri mulai lantang digaungkan di era modern ini setelah sebelumnya isu feminisme dan kesetaraan gender juga telah mendahului topik childfree itu sendiri.
 
 Childfree dan kesetaraan gender sedikit banyak memiliki hubungan. Di masa ini, melahirkan anak sudah bergeser menjadi sebuah pilihan daripada keharusan. Rumah tangga yang tidak memiliki anak sudah mulai dianggap tidak asing walaupun masih ada stigma yang mengikutinya.
 
